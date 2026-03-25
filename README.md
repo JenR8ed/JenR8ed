@@ -1,7 +1,7 @@
 # Hi there, I'm Jennifer McKinley 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sqatester-blue?style=flat-square)](https://jenr8ed.github.io/sqatester/)
-[![Location](https://img.shields.io/badge/Location-Oakland%2C%20CA-green?style=flat-square)](https://github.com/JenR8ed)
+[![Location](https://img.shields.io/badge/Location-SF%20Bay%20Area-green?style=flat-square)](https://github.com/JenR8ed)
 
 ## 🚀 About Me
 
