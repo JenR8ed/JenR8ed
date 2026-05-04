@@ -50,15 +50,20 @@ I'm a **QA Engineer** and **Software Developer** with a passion for automation, 
 
 ## 📊 Featured Projects
 
-### 🤖 [AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist) (Private)
-AI-powered automation tool for eBay listing creation and inventory management. Leverages Python and AI APIs to streamline e-commerce operations.
-- **Tech:** Python, AI APIs, Automation
-- **Status:** Active development with 6 open enhancements
+### 🤖 [AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist)
+High-performance AI automation platform that transforms unstructured photos into structured marketplace listings for professional online resellers.
+- **Tech:** Python, AI APIs, Automation, Multimodal AI
+- **Status:** Active development
 
 ### 💼 [SQA Tester Portfolio](https://github.com/JenR8ed/sqatester)
-Professional resume and portfolio site showcasing QA testing expertise and projects.
-- **Tech:** HTML, CSS, JavaScript
+QA Engineer & Software Developer portfolio site showcasing QA testing expertise and projects.
+- **Tech:** React, Vite, Tailwind CSS
 - **Live:** [jenr8ed.github.io/sqatester](https://jenr8ed.github.io/sqatester/)
+
+
+### 🔍 [tdsql-agent](https://github.com/JenR8ed/tdsql-agent)
+LangGraph supervisor/worker agent for Teradata Vantage analytics.
+- **Tech:** Python, LangGraph, Teradata Vantage
 
 ### 🐧 [dev-linux-vm](https://github.com/JenR8ed/dev-linux-vm)
 Custom Linux development environment for Windows with WSL2 and X11 support. Streamlined setup for cross-platform development.
