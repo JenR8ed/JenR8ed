@@ -84,7 +84,13 @@ Public roadmap and feature planning for AI-List-Assist project, demonstrating pr
 
 ## 📈 GitHub Stats
 
-[View my GitHub activity](https://github.com/JenR8ed)
+| Metric | Details |
+| --- | --- |
+| Focus | QA Automation, Python & TS |
+| Key Repos | AI-List-Assist, sqatester |
+| Open Source | Active Contributions |
+
+[View my full GitHub activity](https://github.com/JenR8ed)
 
 ## 🎯 Currently Working On
 
