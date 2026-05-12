@@ -1,126 +1,74 @@
 # Hi there, I'm Jennifer McKinley 👋
 
 - **Portfolio:** [jenr8ed.github.io/sqatester](https://jenr8ed.github.io/sqatester/)
-- **Location:** SF Bay Area
+- **Location:** SF Bay Area, CA — open to remote opportunities
 
 ## 🚀 About Me
 
-I'm a **QA Engineer** and **Software Developer** with a passion for automation, e-commerce, and building practical solutions. I combine technical expertise with entrepreneurial experience, specializing in quality assurance, test automation, and AI-powered tools for business optimization.
+I'm an **AI Engineer** and **Software Developer** building agentic AI systems and automation tools. I specialize in generative AI pipelines, LLM integration, QA automation, and e-commerce tooling — combining deep technical skills with hands-on entrepreneurial experience.
 
-- 🔍 Focused on QA testing methodologies and automation frameworks
-- 🤖 Building AI-powered automation tools for e-commerce
-- 💼 Active online reseller with expertise in inventory management and logistics
-- 🌱 Currently expanding skills in full-stack development and test automation
-- 📍 Based in the Bay Area, open to remote opportunities
+- 🤖 Building production-grade AI agents and multimodal automation platforms
+- 🔍 Experienced in QA automation, test strategy, and SDET workflows
+- 💼 Active online reseller leveraging AI tooling for inventory and listing management
+- ☁️ Working across GCP, Vertex AI, Cloudflare, and WSL2 dev environments
+- 📍 Based in the SF Bay Area — open to remote AI/ML and SDET roles
 
 ## 🛠️ Technical Skills
 
 ### Languages
-
 - Python
 - JavaScript
 - TypeScript
 - SQL
 - Bash
 
-### Testing & QA
+### AI & Generative AI
+- Gemini API (Vision, Pro, Flash) & Vertex AI
+- LangGraph & Agentic Pipelines
+- Prompt Engineering & Multimodal AI
+- Perplexity AI, NotebookLM, OpenAI
+- AI Tool Integration & Orchestration
 
+### Testing & QA
 - Test Automation (Playwright, Selenium)
 - QA Methodologies & Best Practices
 - API Testing & Integration
 - Manual & Exploratory Testing
 - Test Case Design & Documentation
 
-### Development & Tools
+### Development & Frameworks
+- Flask, FastAPI
+- React, Vite, Tailwind CSS
+- Git, GitHub, GitHub Actions
+- Docker, WSL2, Linux
+- VS Code / Cursor
 
-- Git
-- GitHub
-- VS Code
-- Docker
-- Linux
-
-### Cloud & Productivity
-
-- Google Workspace (Drive, Docs, Sheets, Tasks)
-- API Integration & Development
-- Workflow Automation
-- WSL & Development Environments
-
-### AI & Automation
-
-- AI Tool Integration (Gemini, Perplexity, NotebookLM)
-- Prompt Engineering
-- Process Automation
-- E-commerce API Integration
+### Cloud & Infrastructure
+- Google Cloud Platform (GCP) / Vertex AI
+- Cloudflare Workers & Pages
+- PostgreSQL, Redis, SQLite
+- Doppler (secrets management)
+- API Integration & Workflow Automation
 
 ## 📊 Featured Projects
 
-### 🤖 [AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist) (Private)
+### 🤖 [AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist)
+High-performance AI automation platform that transforms photos into structured marketplace listings. Features 13 core services, 4 operational modes (Locker, Sourcing, Consignment, Studio), and hybrid Vision + Gemini reasoning.
 
-AI-powered automation tool for eBay listing creation and inventory management. Leverages Python and AI APIs to streamline e-commerce operations.
+**Tech:** Python, Flask, Gemini API, Google Cloud Vision, eBay REST APIs, PostgreSQL, Redis, SQLite
 
-- **Tech:** Python, AI APIs, Automation
-- **Status:** Active development with 6 open enhancements
+**Status:** Active development · 394+ commits · 2 stars
 
-### 💼 [SQA Tester Portfolio](https://github.com/JenR8ed/sqatester)
+### ⚙️ [gen-ai-list-assist](https://github.com/JenR8ed/gen-ai-list-assist)
+Enterprise-grade hybrid agentic e-commerce pipeline with Gemini Pro, Space Agent architecture, WSL2, and Doppler for sanitized secret execution.
 
-Professional resume and portfolio site showcasing QA testing expertise and projects.
+**Tech:** Python, Gemini Pro, LangGraph, Doppler, WSL2
 
-- **Tech:** HTML, CSS, JavaScript
-- **Live:** [jenr8ed.github.io/sqatester](https://jenr8ed.github.io/sqatester/)
+**Status:** Active development · MIT License
 
-### 🐧 [dev-linux-vm](https://github.com/JenR8ed/dev-linux-vm)
+### 💼 [sqatester](https://github.com/JenR8ed/sqatester)
+Professional portfolio and resume site showcasing QA and software development expertise.
 
-Custom Linux development environment for Windows with WSL2 and X11 support. Streamlined setup for cross-platform development.
+**Tech:** React, Vite, Tailwind CSS, TypeScript, GitHub Pages
 
-- **Tech:** WSL2, Linux, Shell Scripting, Justfile
-- **License:** Apache 2.0
-
-### 📋 [AI-List-Assist-Roadmap](https://github.com/JenR8ed/AI-List-Assist-Roadmap)
-
-Public roadmap and feature planning for AI-List-Assist project, demonstrating project management and planning skills.
-
-- **Tech:** Project Management, Documentation
-
-## 📈 GitHub Stats
-
-| Metric | Details |
-| --- | --- |
-| Focus | QA Automation, Python & TS |
-| Key Repos | AI-List-Assist, sqatester |
-| Open Source | Active Contributions |
-
-[View my full GitHub activity](https://github.com/JenR8ed)
-
-## 🎯 Currently Working On
-
-- 🔨 Enhancing AI-List-Assist with advanced automation features
-- 📚 Expanding QA testing knowledge and certifications
-- 🌐 Building full-stack applications with TypeScript/Python
-- 🧪 Developing automated testing frameworks
-
-## 💡 Areas of Expertise
-
-- **Quality Assurance:** Test planning, execution, automation, and reporting
-- **E-commerce Operations:** eBay, Facebook Marketplace, inventory management
-- **API Integration:** RESTful APIs, authentication, data processing
-- **Automation:** Python scripting, workflow optimization, AI integration
-- **Shipping & Logistics:** USPS systems, fulfillment optimization
-
-## 📫 How to Reach Me
-
-- 🌐 Portfolio: [jenr8ed.github.io/sqatester](https://jenr8ed.github.io/sqatester/)
-- 💼 GitHub: [@JenR8ed](https://github.com/JenR8ed)
-- 📧 Open to collaboration and opportunities
-
-## 🤝 Open to Opportunities
-
-✅ QA Testing roles (Manual & Automation)  
-✅ Software Development positions  
-✅ Remote work  
-✅ Contract/Freelance projects  
-✅ Open source collaboration  
-
----
-
-⭐️ From [JenR8ed](https://github.com/JenR8ed) | 💻 Building quality software, one test at a time
+**Live:** [jenr8ed.github.io/sqatester](https://jenr8ed.github.io/sqatester/)
