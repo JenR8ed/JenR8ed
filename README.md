@@ -1,17 +1,29 @@
 # Hi there, I'm Jennifer McKinley 👋
 
-- **Portfolio:** [jenr8ed.github.io/sqatester](https://jenr8ed.github.io/sqatester/)
-- **Location:** SF Bay Area —  open to remote opportunities
+> AI Engineer · Software Developer · QA Automation Specialist — open to remote opportunities
 
-## 🚀 About Me
-
-I'm an **AI Engineer** and **Software Developer** building agentic AI systems and automation tools. I specialize in generative AI pipelines, LLM integration, QA automation, and e-commerce tooling — combining deep technical skills with hands-on entrepreneurial experience.
+I build agentic AI systems, generative AI pipelines, and automation tools that combine deep technical skills with hands-on entrepreneurial experience. I specialize in LLM integration, QA automation, and e-commerce tooling.
 
 - 🤖 Building production-grade AI agents and multimodal automation platforms
 - 🔍 Experienced in QA automation, test strategy, and SDET workflows
 - 💼 Active online reseller leveraging AI tooling for inventory and listing management
 - ☁️ Working across GCP, Vertex AI, Cloudflare, and WSL2 dev environments
 - 📍 Based in the SF Bay Area — open to remote AI/ML and SDET roles
+
+## 🚀 Getting Started
+
+Check out my live portfolio and featured projects below to see what I'm building:
+
+- **Portfolio:** [jenr8ed.github.io/sqatester](https://jenr8ed.github.io/sqatester/)
+- **GitHub:** [github.com/JenR8ed](https://github.com/JenR8ed)
+
+To explore a project locally:
+
+```shell
+git clone https://github.com/JenR8ed/<repo-name>.git
+cd <repo-name>
+pip install -r requirements.txt  # or: npm install
+```
 
 ## 🛠️ Technical Skills
 
@@ -37,9 +49,10 @@ I'm an **AI Engineer** and **Software Developer** building agentic AI systems an
 - Test Case Design & Documentation
 
 ### Development & Frameworks
+- **React** — component-based UI development (used in [sqatester](https://github.com/JenR8ed/sqatester) portfolio with Vite + TypeScript)
+- **GitHub Actions** — CI/CD pipelines, automated deployments to GitHub Pages and Cloudflare
 - Flask, FastAPI
-- React, Vite, Tailwind CSS
-- Git, GitHub, GitHub Actions
+- Vite, Tailwind CSS
 - Docker, WSL2, Linux
 - VS Code / Cursor
 
@@ -53,22 +66,38 @@ I'm an **AI Engineer** and **Software Developer** building agentic AI systems an
 ## 📊 Featured Projects
 
 ### 🤖 [AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist)
+
 High-performance AI automation platform that transforms photos into structured marketplace listings. Features 13 core services, 4 operational modes (Locker, Sourcing, Consignment, Studio), and hybrid Vision + Gemini reasoning.
 
-**Tech:** Python, Flask, Gemini API, Google Cloud Vision, eBay REST APIs, PostgreSQL, Redis, SQLite
-
+**Tech:** Python, Flask, Gemini API, Google Cloud Vision, eBay REST APIs, PostgreSQL, Redis, SQLite  
 **Status:** Active development · 394+ commits · 2 stars
 
 ### ⚙️ [gen-ai-list-assist](https://github.com/JenR8ed/gen-ai-list-assist)
+
 Enterprise-grade hybrid agentic e-commerce pipeline with Gemini Pro, Space Agent architecture, WSL2, and Doppler for sanitized secret execution.
 
-**Tech:** Python, Gemini Pro, LangGraph, Doppler, WSL2
-
+**Tech:** Python, Gemini Pro, LangGraph, Doppler, WSL2  
 **Status:** Active development · MIT License
 
 ### 💼 [sqatester](https://github.com/JenR8ed/sqatester)
-Professional portfolio and resume site showcasing QA and software development expertise.
 
-**Tech:** React, Vite, Tailwind CSS, TypeScript, GitHub Pages
+Professional portfolio and resume site showcasing QA and software development expertise, built with React and deployed via GitHub Actions to GitHub Pages.
 
+**Tech:** React, Vite, Tailwind CSS, TypeScript, GitHub Pages  
 **Live:** [jenr8ed.github.io/sqatester](https://jenr8ed.github.io/sqatester/)
+
+## 🤝 Contributing
+
+If you'd like to contribute to any of my open-source projects, please fork the repository and use a feature branch. Pull requests are warmly welcome!
+
+For bugs or feature ideas, [open an issue](https://github.com/JenR8ed) on the relevant repo.
+
+## 🔗 Links
+
+- Portfolio: [jenr8ed.github.io/sqatester](https://jenr8ed.github.io/sqatester/)
+- GitHub: [github.com/JenR8ed](https://github.com/JenR8ed)
+- Featured project: [AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist)
+
+## 📄 Licensing
+
+My open-source projects are generally licensed under the MIT License unless otherwise noted. See the `LICENSE` file in each repository for details.
