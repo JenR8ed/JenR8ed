@@ -1,7 +1,7 @@
 # Hi there, I'm Jennifer McKinley 👋
 
 - **Portfolio:** [jenr8ed.github.io/sqatester](https://jenr8ed.github.io/sqatester/)
-- **Location:** SF Bay Area, CA — open to remote opportunities
+- **Location:** SF Bay Area —  open to remote opportunities
 
 ## 🚀 About Me
 
