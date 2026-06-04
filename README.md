@@ -1,23 +1,29 @@
 # Hi there, I'm Jennifer McKinley 👋
 
-> AI Engineer · Software Developer · QA Automation Specialist — open to remote opportunities
+> AI Engineer · SDET Architect · Generative AI Developer — building systems that work in production, not just notebooks.
 
-I build agentic AI systems, generative AI pipelines, and automation tools that combine deep technical skills with hands-on entrepreneurial experience. I specialize in LLM integration, QA automation, and e-commerce tooling.
+I build agentic AI systems, generative AI pipelines, and automation tools that combine deep technical skills with hands-on entrepreneurial experience. I specialize in LLM integration, QA automation, and e-commerce tooling — with a focus on shipping real, production-grade solutions.
 
 - 🤖 Building production-grade AI agents and multimodal automation platforms
-- 🔍 Experienced in QA automation, test strategy, and SDET workflows
-- 💼 Active online reseller leveraging AI tooling for inventory and listing management
+- 🔍 10+ years in QA automation, test strategy, and SDET workflows
+- 💼 Active online reseller leveraging AI for inventory and listing management
 - ☁️ Working across GCP, Vertex AI, Cloudflare, and WSL2 dev environments
-- 📍 Based in the SF Bay Area — open to remote AI/ML and SDET roles
+- 📰 Author of **[GenAI Revenue Plays](https://linkedin.com/in/jenr8ed-ai)** — biweekly newsletter on AI strategy for practitioners
+- 📍 SF Bay Area — open to remote AI/ML and SDET roles
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Languages
-- Python · JavaScript · TypeScript · SQL · Bash
+Python · JavaScript · TypeScript · SQL · Bash
 
 ### AI & Generative AI
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
 - Gemini API (Vision, Pro, Flash) & Vertex AI
 - LangGraph & Agentic Pipelines
 - Prompt Engineering & Multimodal AI
@@ -25,17 +31,28 @@ I build agentic AI systems, generative AI pipelines, and automation tools that c
 - AI Tool Integration & Orchestration
 
 ### Testing & QA
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
 - Test Automation (Playwright, Selenium)
 - QA Methodologies & Best Practices
 - API Testing & Integration
 - Manual & Exploratory Testing
 
 ### Development & Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
 - React — component-based UI (sqatester portfolio with Vite + TypeScript)
 - GitHub Actions — CI/CD pipelines, automated deployments
 - Flask, FastAPI · Vite, Tailwind CSS · Docker, WSL2, Linux
 
 ### Cloud & Infrastructure
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
 - Google Cloud Platform (GCP) / Vertex AI
 - Cloudflare Workers & Pages
 - PostgreSQL, Redis, SQLite
@@ -70,18 +87,20 @@ LangGraph supervisor/worker agent for Teradata Vantage analytics.
 
 - 🌐 Portfolio: [jenr8ed.github.io/sqatester](https://jenr8ed.github.io/sqatester/)
 - 💼 LinkedIn: [linkedin.com/in/jenr8ed-ai](https://linkedin.com/in/jenr8ed-ai)
+- 📰 Newsletter: [GenAI Revenue Plays](https://linkedin.com/in/jenr8ed-ai) — biweekly AI strategy
 - 🐙 GitHub: [github.com/JenR8ed](https://github.com/JenR8ed)
 
 ---
 
 ## 🤝 Open to Opportunities
 
-- QA Testing roles (Manual & Automation)
-- Software Development positions
-- Remote work
-- Contract/Freelance projects
-- Open source collaboration
+- ✅ AI Engineering / Generative AI roles
+- ✅ SDET Architect / QA Automation Engineer roles
+- ✅ Software Development positions
+- ✅ Remote work
+- ✅ Contract/Freelance projects
+- ✅ Open source collaboration
 
 ---
 
-⭐️ From [JenR8ed](https://github.com/JenR8ed) | 💻 Building quality software, one test at a time
+⭐️ From [JenR8ed](https://github.com/JenR8ed) | 🤖 Building AI systems that work in production
