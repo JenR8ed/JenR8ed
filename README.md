@@ -31,8 +31,8 @@ I build agentic AI systems, generative AI pipelines, and automation tools that c
 - Manual & Exploratory Testing
 
 ### Development & Frameworks
-- **React** — component-based UI (sqatester portfolio with Vite + TypeScript)
-- **GitHub Actions** — CI/CD pipelines, automated deployments
+- React — component-based UI (sqatester portfolio with Vite + TypeScript)
+- GitHub Actions — CI/CD pipelines, automated deployments
 - Flask, FastAPI · Vite, Tailwind CSS · Docker, WSL2, Linux
 
 ### Cloud & Infrastructure
@@ -48,7 +48,7 @@ I build agentic AI systems, generative AI pipelines, and automation tools that c
 ### 🤖 [AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist)
 High-performance AI automation platform that transforms photos into structured marketplace listings. Features 13 core services, 4 operational modes (Locker, Sourcing, Consignment, Studio), and hybrid Vision + Gemini reasoning.  
 **Tech:** Python, Flask, Gemini API, Google Cloud Vision, eBay REST APIs, PostgreSQL, Redis, SQLite  
-**Status:** Active development · 394+ commits · 2 stars
+**Status:** Active development
 
 ### ⚙️ [gen-ai-list-assist](https://github.com/JenR8ed/gen-ai-list-assist)
 Enterprise-grade hybrid agentic e-commerce pipeline with Gemini Pro, Space Agent architecture, WSL2, and Doppler for sanitized secret execution.  
@@ -60,6 +60,10 @@ Professional portfolio showcasing QA and software development expertise, built w
 **Tech:** React, Vite, Tailwind CSS, TypeScript, GitHub Pages  
 **Live:** [jenr8ed.github.io/sqatester](https://jenr8ed.github.io/sqatester/)
 
+### 🔍 [tdsql-agent](https://github.com/JenR8ed/tdsql-agent)
+LangGraph supervisor/worker agent for Teradata Vantage analytics.  
+**Tech:** Python, LangGraph, Teradata Vantage
+
 ---
 
 ## 🔗 Links
@@ -70,6 +74,14 @@ Professional portfolio showcasing QA and software development expertise, built w
 
 ---
 
-## 📄 Licensing
+## 🤝 Open to Opportunities
 
-My open-source projects are generally licensed under the MIT License unless otherwise noted. See the `LICENSE` file in each repository for details.
+- QA Testing roles (Manual & Automation)
+- Software Development positions
+- Remote work
+- Contract/Freelance projects
+- Open source collaboration
+
+---
+
+⭐️ From [JenR8ed](https://github.com/JenR8ed) | 💻 Building quality software, one test at a time
