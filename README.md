@@ -1,15 +1,35 @@
 # Hi there, I'm Jennifer McKinley 👋
 
-> AI Engineer · SDET Architect · Generative AI Developer — building systems that work in production, not just notebooks.
+> **AI Engineer · SDET Architect · Generative AI Developer** — building production-grade agentic systems, terminal-native interfaces, and automation that ships.
 
-I build agentic AI systems, generative AI pipelines, and automation tools that combine deep technical skills with hands-on entrepreneurial experience. I specialize in LLM integration, QA automation, and e-commerce tooling — with a focus on shipping real, production-grade solutions.
+I design and ship **agentic AI platforms**, full-stack automation tooling, and professional SDET infrastructure. My work spans LLM orchestration (Gemini + custom agents), terminal OS interfaces, e-commerce reselling automation, and deterministic validation frameworks.
 
-- 🤖 Building production-grade AI agents and multimodal automation platforms
+- 🤖 **Flagship**: [AI Agentic Terminal Portfolio](https://github.com/JenR8ed/AI-Agentic-Terminal-Portfolio) — React terminal OS + Gemini backend, Drizzle, Firebase, MatrixRain UI, Workflow Suite
 - 🔍 10+ years in QA automation, test strategy, and SDET workflows
-- 💼 Active online reseller leveraging AI for inventory and listing management
-- ☁️ Working across GCP, Vertex AI, Cloudflare, and WSL2 dev environments
-- 📰 Author of **[GenAI Revenue Plays](https://linkedin.com/in/jenr8ed-ai)** — biweekly newsletter on AI strategy for practitioners
-- 📍 SF Bay Area — open to remote AI/ML and SDET roles
+- 💼 Active online reseller leveraging AI for inventory, listing, and sourcing automation
+- ☁️ GCP / Vertex AI, Cloudflare, WSL2, Docker
+- 📰 Author of **GenAI Revenue Plays** — biweekly newsletter on practical AI strategy
+- 📍 SF Bay Area — open to remote AI/ML, Agentic Systems, and SDET roles
+
+---
+
+## 🚀 Featured Project: AI Agentic Terminal Portfolio
+
+**The central hub for my agentic engineering work.**
+
+A full-stack, production-oriented **terminal-native portfolio and automation platform** featuring:
+
+- React 19 + Vite terminal OS with stunning MatrixRain, WorkspaceHub, AI Workflow Suite
+- Gemini Pro/Flash orchestration & stateful agent memory
+- Drizzle ORM + Firebase backend
+- CI/CD monitoring, dependency visualization, Python validation engines
+- Designed as both showcase *and* real working tool for agentic systems
+
+**Live**: [ai-agentic-terminal-portfolio.vercel.app](https://ai-agentic-terminal-portfolio.vercel.app) (Vercel-optimized)
+**Repo**: [github.com/JenR8ed/AI-Agentic-Terminal-Portfolio](https://github.com/JenR8ed/AI-Agentic-Terminal-Portfolio)
+**Tech**: TypeScript, React, Gemini, Express, Drizzle, Firebase, Tailwind, Recharts
+
+*This is the repo that best represents my current vision for agentic AI tooling.*
 
 ---
 
@@ -18,89 +38,92 @@ I build agentic AI systems, generative AI pipelines, and automation tools that c
 ### Languages
 Python · JavaScript · TypeScript · SQL · Bash
 
-### AI & Generative AI
+### AI & Agentic Systems
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-- Gemini API (Vision, Pro, Flash) & Vertex AI
-- LangGraph & Agentic Pipelines
-- Prompt Engineering & Multimodal AI
-- Perplexity AI, NotebookLM, OpenAI
-- AI Tool Integration & Orchestration
+- Gemini API (Vision, Pro, Flash) & custom agent tooling
+- Stateful memory, tool use, agent loops & MCP-style architectures
+- Prompt engineering & multimodal reasoning
+- Production agent orchestration
 
-### Testing & QA
+### Testing & QA / SDET
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
-- Test Automation (Playwright, Selenium)
-- QA Methodologies & Best Practices
-- API Testing & Integration
-- Manual & Exploratory Testing
+- Test automation frameworks & strategy
+- API, integration, and exploratory testing
+- Validation engines & deterministic reporting
 
-### Development & Frameworks
+### Frontend & Frameworks
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
-- React — component-based UI (sqatester portfolio with Vite + TypeScript)
-- GitHub Actions — CI/CD pipelines, automated deployments
-- Flask, FastAPI · Vite, Tailwind CSS · Docker, WSL2, Linux
+- Terminal-native UIs & React component systems
+- GitHub Actions CI/CD pipelines
+- Full-stack TypeScript apps
 
 ### Cloud & Infrastructure
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- Google Cloud Platform (GCP) / Vertex AI
-- Cloudflare Workers & Pages
-- PostgreSQL, Redis, SQLite
-- Doppler (secrets management)
+- Google Cloud Platform & Vertex AI
+- Cloudflare Workers/Pages
+- PostgreSQL, SQLite, Redis, Firebase
+- Doppler secrets management
 
 ---
 
-## 📊 Featured Projects
+## 📊 Other Active Projects
 
 ### 🤖 [AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist)
-High-performance AI automation platform that transforms photos into structured marketplace listings. Features 13 core services, 4 operational modes (Locker, Sourcing, Consignment, Studio), and hybrid Vision + Gemini reasoning.  
-**Tech:** Python, Flask, Gemini API, Google Cloud Vision, eBay REST APIs, PostgreSQL, Redis, SQLite  
-**Status:** Active development
+High-performance AI automation that turns photos into structured marketplace listings. 13+ services, multiple operational modes.
+**Tech:** Python, Flask, Gemini + Vision, eBay APIs, PostgreSQL/Redis/SQLite
 
 ### ⚙️ [gen-ai-list-assist](https://github.com/JenR8ed/gen-ai-list-assist)
-Enterprise-grade hybrid agentic e-commerce pipeline with Gemini Pro, Space Agent architecture, WSL2, and Doppler for sanitized secret execution.  
-**Tech:** Python, Gemini Pro, LangGraph, Doppler, WSL2  
-**Status:** Active development · MIT License
+Enterprise hybrid agentic e-commerce pipeline with LangGraph-style agents.
+**Tech:** Python, Gemini Pro, LangGraph, Doppler, WSL2
 
 ### 💼 [sqatester](https://github.com/JenR8ed/sqatester)
-Professional portfolio showcasing QA and software development expertise, built with React and deployed via GitHub Actions to GitHub Pages.  
-**Tech:** React, Vite, Tailwind CSS, TypeScript, GitHub Pages  
+Professional SDET & React portfolio (Vite + TypeScript + Tailwind).
 **Live:** [jenr8ed.github.io/sqatester](https://jenr8ed.github.io/sqatester/)
 
 ### 🔍 [tdsql-agent](https://github.com/JenR8ed/tdsql-agent)
-LangGraph supervisor/worker agent for Teradata Vantage analytics.  
-**Tech:** Python, LangGraph, Teradata Vantage
+LangGraph supervisor/worker agent for Teradata analytics.
 
 ---
 
-## 🔗 Links
+## 🔗 Links & Presence
 
-- 🌐 Portfolio: [jenr8ed.github.io/sqatester](https://jenr8ed.github.io/sqatester/)
+- 🌐 **Main Portfolio / Terminal Demo**: [jenr8ed.github.io](https://jenr8ed.github.io) & [AI-Agentic-Terminal-Portfolio on Vercel](https://ai-agentic-terminal-portfolio.vercel.app)
+- 🐙 GitHub: [github.com/JenR8ed](https://github.com/JenR8ed) — **pinning AI-Agentic-Terminal-Portfolio**
 - 💼 LinkedIn: [linkedin.com/in/jenr8ed-ai](https://linkedin.com/in/jenr8ed-ai)
-- 📰 Newsletter: [GenAI Revenue Plays](https://linkedin.com/in/jenr8ed-ai) — biweekly AI strategy
-- 🐙 GitHub: [github.com/JenR8ed](https://github.com/JenR8ed)
+- 📰 Newsletter: **GenAI Revenue Plays** on LinkedIn
+
+---
+
+## 💰 Sponsorship & Collaboration
+
+I'm building open, production-grade agentic tooling and welcome support.
+
+- **GitHub Sponsors**: [github.com/sponsors/JenR8ed](https://github.com/sponsors/JenR8ed)
+- Exploring Open Collective & GitHub Accelerators for sustainable AI tooling development.
+
+Sponsors get early access to new agent capabilities, private demos, and influence on roadmap (memory systems, multi-agent orchestration, terminal interfaces).
 
 ---
 
 ## 🤝 Open to Opportunities
 
-- ✅ AI Engineering / Generative AI roles
-- ✅ SDET Architect / QA Automation Engineer roles
-- ✅ Software Development positions
-- ✅ Remote work
-- ✅ Contract/Freelance projects
-- ✅ Open source collaboration
+- ✅ AI Engineering / Agentic Systems / Generative AI roles
+- ✅ SDET Architect / QA Automation Engineer
+- ✅ Full-stack TypeScript / React + AI positions
+- ✅ Remote / Contract / Freelance
+- ✅ Open source collaboration & technical advising
 
 ---
 
-⭐️ From [JenR8ed](https://github.com/JenR8ed) | 🤖 Building AI systems that work in production
+⭐️ From [JenR8ed](https://github.com/JenR8ed) | 🤖 Shipping agentic systems that work in production
