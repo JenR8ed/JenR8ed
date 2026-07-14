@@ -1,5 +1,8 @@
 # Hi there, I'm Jennifer McKinley 👋
 
+Please excuse the occassional oddities produced by hallucinations made by some portion of my agentic AI pipeline.
+Be aware that it is live code being changed by all kinds of machine learning integrations.
+
 > **AI Engineer · SDET Architect · Generative AI Developer** — building production-grade agentic systems, terminal-native interfaces, and automation that ships.
 
 I design and ship **agentic AI platforms**, full-stack automation tooling, and professional SDET infrastructure. My work spans LLM orchestration (Gemini + custom agents), terminal OS interfaces, e-commerce reselling automation, and deterministic validation frameworks.
