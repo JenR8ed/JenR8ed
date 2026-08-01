@@ -1,13 +1,13 @@
 # Hi there, I'm Jennifer McKinley 👋
 
-Please excuse the occassional oddities produced by hallucinations made by some portion of my agentic AI pipeline.
-Be aware that it is live code being changed by all kinds of machine learning integrations.
+Please excuse the occasional oddities produced by hallucinations from some portion of my agentic AI pipeline.
+Be aware that this is live code being changed by machine learning integrations.
 
 > **AI Engineer · SDET Architect · Generative AI Developer** — building production-grade agentic systems, terminal-native interfaces, and automation that ships.
 
 I design and ship **agentic AI platforms**, full-stack automation tooling, and professional SDET infrastructure. My work spans LLM orchestration (Gemini + custom agents), terminal OS interfaces, e-commerce reselling automation, and deterministic validation frameworks.
 
-- 🤖 **Flagship**: [AI Agentic Terminal Portfolio](https://github.com/JenR8ed/AI-Agentic-Terminal-Portfolio) — React terminal OS + Gemini backend, Drizzle, Firebase, MatrixRain UI, Workflow Suite
+- 🤖 **Flagship**: [AI Agentic Terminal Portfolio](https://github.com/JenR8ed/AI-Agentic-Terminal-Portfolio) — React terminal OS + Gemini backend, Drizzle, Firebase, MatrixRain UI, Workflow Suite *(private repo; live demo public)*
 - 🔍 10+ years in QA automation, test strategy, and SDET workflows
 - 💼 Active online reseller leveraging AI for inventory, listing, and sourcing automation
 - ☁️ GCP / Vertex AI, Cloudflare, WSL2, Docker
@@ -22,14 +22,14 @@ I design and ship **agentic AI platforms**, full-stack automation tooling, and p
 
 A full-stack, production-oriented **terminal-native portfolio and automation platform** featuring:
 
-- React 19 + Vite terminal OS with stunning MatrixRain, WorkspaceHub, AI Workflow Suite
+- React 19 + Vite terminal OS with MatrixRain, WorkspaceHub, AI Workflow Suite
 - Gemini Pro/Flash orchestration & stateful agent memory
 - Drizzle ORM + Firebase backend
 - CI/CD monitoring, dependency visualization, Python validation engines
 - Designed as both showcase *and* real working tool for agentic systems
 
-**Live**: [ai-agentic-terminal-portfolio.vercel.app](https://ai-agentic-terminal-portfolio.vercel.app) (Vercel-optimized)
-**Repo**: [github.com/JenR8ed/AI-Agentic-Terminal-Portfolio](https://github.com/JenR8ed/AI-Agentic-Terminal-Portfolio)
+**Live**: [ai-agentic-terminal-portfolio.vercel.app](https://ai-agentic-terminal-portfolio.vercel.app) (Vercel-optimized)  
+**Repo**: [github.com/JenR8ed/AI-Agentic-Terminal-Portfolio](https://github.com/JenR8ed/AI-Agentic-Terminal-Portfolio) *(private)*  
 **Tech**: TypeScript, React, Gemini, Express, Drizzle, Firebase, Tailwind, Recharts
 
 *This is the repo that best represents my current vision for agentic AI tooling.*
@@ -90,19 +90,28 @@ High-performance AI automation that turns photos into structured marketplace lis
 Enterprise hybrid agentic e-commerce pipeline with LangGraph-style agents.
 **Tech:** Python, Gemini Pro, LangGraph, Doppler, WSL2
 
+### 🎛️ [hermes-agentic-model-picker-demo](https://github.com/JenR8ed/hermes-agentic-model-picker-demo)
+Routing tasks across LLMs with a Gradio UI — practical multi-model agent orchestration demo.
+**Tech:** Python, Gradio, multi-LLM routing
+
+### 🛠️ [jenr8ed-deploy-kit](https://github.com/JenR8ed/jenr8ed-deploy-kit)
+Professional automation toolkit for JenR8ed AI projects: templates, scripts, Notion integration, JAIOS-compliant workflows.
+**Tech:** Shell, automation tooling
+
 ### 💼 [sqatester](https://github.com/JenR8ed/sqatester)
 Professional SDET & React portfolio (Vite + TypeScript + Tailwind).
 **Live:** [jenr8ed.github.io/sqatester](https://jenr8ed.github.io/sqatester/)
 
-### 🔍 [tdsql-agent](https://github.com/JenR8ed/tdsql-agent)
-LangGraph supervisor/worker agent for Teradata analytics.
+### 🎵 [turd-eye-productions](https://github.com/JenR8ed/turd-eye-productions)
+AI Music Monetization Guides, Workflows, Decision Matrices, Cost Analysis & Profit Pipelines.
+**Tech:** Python
 
 ---
 
 ## 🔗 Links & Presence
 
 - 🌐 **Main Portfolio / Terminal Demo**: [jenr8ed.github.io](https://jenr8ed.github.io) & [AI-Agentic-Terminal-Portfolio on Vercel](https://ai-agentic-terminal-portfolio.vercel.app)
-- 🐙 GitHub: [github.com/JenR8ed](https://github.com/JenR8ed) — **pinning AI-Agentic-Terminal-Portfolio**
+- 🐙 GitHub: [github.com/JenR8ed](https://github.com/JenR8ed)
 - 💼 LinkedIn: [linkedin.com/in/jenr8ed-ai](https://linkedin.com/in/jenr8ed-ai)
 - 📰 Newsletter: **GenAI Revenue Plays** on LinkedIn
 
