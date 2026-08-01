@@ -3,11 +3,11 @@
 Please excuse the occasional oddities produced by hallucinations from some portion of my agentic AI pipeline.
 Be aware that this is live code being changed by machine learning integrations.
 
-> **AI Engineer · SDET Architect · Generative AI Developer** — building production-grade agentic systems, terminal-native interfaces, and automation that ships.
+> **AI Engineer · SDET Architect · Generative AI Developer** — building production-grade agentic systems, e-commerce AI tooling, and automation that ships.
 
-I design and ship **agentic AI platforms**, full-stack automation tooling, and professional SDET infrastructure. My work spans LLM orchestration (Gemini + custom agents), terminal OS interfaces, e-commerce reselling automation, and deterministic validation frameworks.
+I design and ship **agentic AI platforms**, full-stack automation tooling, and professional SDET infrastructure. My work spans LLM orchestration (Gemini + custom agents), e-commerce reselling automation, terminal-native interfaces, and deterministic validation frameworks.
 
-- 🤖 **Flagship**: [AI Agentic Terminal Portfolio](https://github.com/JenR8ed/AI-Agentic-Terminal-Portfolio) — React terminal OS + Gemini backend, Drizzle, Firebase, MatrixRain UI, Workflow Suite *(private repo; live demo public)*
+- 🤖 **Flagship**: [AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist) — High-performance AI automation that transforms photos into structured marketplace listings (13+ services, hybrid Gemini + Vision pipeline)
 - 🔍 10+ years in QA automation, test strategy, and SDET workflows
 - 💼 Active online reseller leveraging AI for inventory, listing, and sourcing automation
 - ☁️ GCP / Vertex AI, Cloudflare, WSL2, Docker
@@ -16,23 +16,23 @@ I design and ship **agentic AI platforms**, full-stack automation tooling, and p
 
 ---
 
-## 🚀 Featured Project: AI Agentic Terminal Portfolio
+## 🚀 Featured Project: AI-List-Assist
 
-**The central hub for my agentic engineering work.**
+**Enterprise-grade AI automation for professional online resellers.**
 
-A full-stack, production-oriented **terminal-native portfolio and automation platform** featuring:
+A high-performance platform that turns unstructured photos into structured, category-specific marketplace listings using a sophisticated hybrid AI architecture:
 
-- React 19 + Vite terminal OS with MatrixRain, WorkspaceHub, AI Workflow Suite
-- Gemini Pro/Flash orchestration & stateful agent memory
-- Drizzle ORM + Firebase backend
-- CI/CD monitoring, dependency visualization, Python validation engines
-- Designed as both showcase *and* real working tool for agentic systems
+- **Hybrid AI pipeline**: Google Cloud Vision (OCR / object detection) + Gemini (reasoning & synthesis)
+- **13+ modular services**: valuation, conversation orchestration, listing synthesis, eBay REST integration, market intelligence, and more
+- **Operational modes**: Locker, Sourcing, Consignment, and Studio for different reseller workflows
+- **Telegram Valuator Bot** for instant field appraisals
+- Deterministic analysis via image hashing, real-time cost tracking, and triple-DB architecture (SQLite WAL + PostgreSQL/Redis for market data)
+- Security: HMAC Bearer auth, strict CSP, XSS-safe rendering
 
-**Live**: [ai-agentic-terminal-portfolio.vercel.app](https://ai-agentic-terminal-portfolio.vercel.app) (Vercel-optimized)  
-**Repo**: [github.com/JenR8ed/AI-Agentic-Terminal-Portfolio](https://github.com/JenR8ed/AI-Agentic-Terminal-Portfolio) *(private)*  
-**Tech**: TypeScript, React, Gemini, Express, Drizzle, Firebase, Tailwind, Recharts
+**Repo**: [github.com/JenR8ed/AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist)  
+**Tech**: Python, Flask, Gemini + Cloud Vision, eBay APIs, PostgreSQL, Redis, SQLite, Docker
 
-*This is the repo that best represents my current vision for agentic AI tooling.*
+*This is the project that best represents my production agentic AI and e-commerce automation work.*
 
 ---
 
@@ -82,13 +82,13 @@ Python · JavaScript · TypeScript · SQL · Bash
 
 ## 📊 Other Active Projects
 
-### 🤖 [AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist)
-High-performance AI automation that turns photos into structured marketplace listings. 13+ services, multiple operational modes.
-**Tech:** Python, Flask, Gemini + Vision, eBay APIs, PostgreSQL/Redis/SQLite
-
 ### ⚙️ [gen-ai-list-assist](https://github.com/JenR8ed/gen-ai-list-assist)
 Enterprise hybrid agentic e-commerce pipeline with LangGraph-style agents.
 **Tech:** Python, Gemini Pro, LangGraph, Doppler, WSL2
+
+### 🖥️ [AI-Agentic-Terminal-Portfolio](https://github.com/JenR8ed/AI-Agentic-Terminal-Portfolio)
+React terminal OS + Gemini backend, Drizzle, Firebase, MatrixRain UI, Workflow Suite.
+**Live:** [ai-agentic-terminal-portfolio.vercel.app](https://ai-agentic-terminal-portfolio.vercel.app) *(repo private)*
 
 ### 🎛️ [hermes-agentic-model-picker-demo](https://github.com/JenR8ed/hermes-agentic-model-picker-demo)
 Routing tasks across LLMs with a Gradio UI — practical multi-model agent orchestration demo.
@@ -110,7 +110,8 @@ AI Music Monetization Guides, Workflows, Decision Matrices, Cost Analysis & Prof
 
 ## 🔗 Links & Presence
 
-- 🌐 **Main Portfolio / Terminal Demo**: [jenr8ed.github.io](https://jenr8ed.github.io) & [AI-Agentic-Terminal-Portfolio on Vercel](https://ai-agentic-terminal-portfolio.vercel.app)
+- 🌐 **Portfolio**: [jenr8ed.github.io](https://jenr8ed.github.io)
+- 🤖 **Flagship**: [AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist)
 - 🐙 GitHub: [github.com/JenR8ed](https://github.com/JenR8ed)
 - 💼 LinkedIn: [linkedin.com/in/jenr8ed-ai](https://linkedin.com/in/jenr8ed-ai)
 - 📰 Newsletter: **GenAI Revenue Plays** on LinkedIn
@@ -124,7 +125,7 @@ I'm building open, production-grade agentic tooling and welcome support.
 - **GitHub Sponsors**: [github.com/sponsors/JenR8ed](https://github.com/sponsors/JenR8ed)
 - Exploring Open Collective & GitHub Accelerators for sustainable AI tooling development.
 
-Sponsors get early access to new agent capabilities, private demos, and influence on roadmap (memory systems, multi-agent orchestration, terminal interfaces).
+Sponsors get early access to new agent capabilities, private demos, and influence on roadmap (memory systems, multi-agent orchestration, e-commerce AI pipelines).
 
 ---
 
