@@ -1,38 +1,45 @@
-# Hi there, I'm Jennifer McKinley 👋
+# Hi, I'm Jennifer McKinley 👋
 
-Please excuse the occasional oddities produced by hallucinations from some portion of my agentic AI pipeline.
-Be aware that this is live code being changed by machine learning integrations.
+**AI Engineer · SDET Architect · Generative AI Developer**
 
-> **AI Engineer · SDET Architect · Generative AI Developer** — building production-grade agentic systems, e-commerce AI tooling, and automation that ships.
+I build production agentic systems and e-commerce AI tooling that turn messy real-world inputs into structured, shippable output.
 
-I design and ship **agentic AI platforms**, full-stack automation tooling, and professional SDET infrastructure. My work spans LLM orchestration (Gemini + custom agents), e-commerce reselling automation, terminal-native interfaces, and deterministic validation frameworks.
+### 🎯 Primary project
+**[AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist)** — Turns product photos into ready-to-list marketplace inventory in seconds.
 
-- 🤖 **Flagship**: [AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist) — High-performance AI automation that transforms photos into structured marketplace listings (13+ services, hybrid Gemini + Vision pipeline)
-- 🔍 10+ years in QA automation, test strategy, and SDET workflows
-- 💼 Active online reseller leveraging AI for inventory, listing, and sourcing automation
-- ☁️ GCP / Vertex AI, Cloudflare, WSL2, Docker
-- 📰 Author of **GenAI Revenue Plays** — biweekly newsletter on practical AI strategy
-- 📍 SF Bay Area — open to remote AI/ML, Agentic Systems, and SDET roles
+Hybrid Vision + Gemini pipeline · 13+ modular services · Live reselling workflows · Open source
+
+**→ [Explore AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist)** · **→ [Star the repo](https://github.com/JenR8ed/AI-List-Assist)** · **→ [GenAI Revenue Plays](https://linkedin.com/in/jenr8ed-ai)** (newsletter)
 
 ---
 
-## 🚀 Featured Project: AI-List-Assist
+## 🚀 AI-List-Assist — Featured
 
 **Enterprise-grade AI automation for professional online resellers.**
 
-A high-performance platform that turns unstructured photos into structured, category-specific marketplace listings using a sophisticated hybrid AI architecture:
+Upload a photo. Get a structured, category-aware listing draft with valuation signal — built for people who actually source and sell at volume.
 
-- **Hybrid AI pipeline**: Google Cloud Vision (OCR / object detection) + Gemini (reasoning & synthesis)
-- **13+ modular services**: valuation, conversation orchestration, listing synthesis, eBay REST integration, market intelligence, and more
-- **Operational modes**: Locker, Sourcing, Consignment, and Studio for different reseller workflows
-- **Telegram Valuator Bot** for instant field appraisals
-- Deterministic analysis via image hashing, real-time cost tracking, and triple-DB architecture (SQLite WAL + PostgreSQL/Redis for market data)
-- Security: HMAC Bearer auth, strict CSP, XSS-safe rendering
+| Capability | Detail |
+| :--- | :--- |
+| **Hybrid AI pipeline** | Google Cloud Vision (OCR / object detection) + Gemini (reasoning & synthesis) |
+| **13+ services** | Valuation, conversation orchestration, listing synthesis, eBay REST, market intelligence, more |
+| **Operational modes** | Locker · Sourcing · Consignment · Studio |
+| **Field tool** | Telegram Valuator Bot for instant appraisals on the floor |
+| **Reliability** | Deterministic image hashing, real-time cost tracking, triple-DB architecture |
+| **Security** | HMAC Bearer auth, strict CSP, XSS-safe rendering |
 
 **Repo**: [github.com/JenR8ed/AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist)  
-**Tech**: Python, Flask, Gemini + Cloud Vision, eBay APIs, PostgreSQL, Redis, SQLite, Docker
+**Stack**: Python · Flask · Gemini + Cloud Vision · eBay APIs · PostgreSQL · Redis · SQLite · Docker
 
-*This is the project that best represents my production agentic AI and e-commerce automation work.*
+---
+
+## About me
+
+- 10+ years in QA automation, test strategy, and SDET workflows
+- Active online reseller — I use the same AI tooling I ship
+- GCP / Vertex AI, Cloudflare, WSL2, Docker
+- Author of **GenAI Revenue Plays** — practical AI strategy for builders and operators
+- SF Bay Area · open to remote AI/ML, Agentic Systems, and SDET roles
 
 ---
 
@@ -83,60 +90,49 @@ Python · JavaScript · TypeScript · SQL · Bash
 ## 📊 Other Active Projects
 
 ### ⚙️ [gen-ai-list-assist](https://github.com/JenR8ed/gen-ai-list-assist)
-Enterprise hybrid agentic e-commerce pipeline with LangGraph-style agents.
+Enterprise hybrid agentic e-commerce pipeline with LangGraph-style agents.  
 **Tech:** Python, Gemini Pro, LangGraph, Doppler, WSL2
 
 ### 🖥️ [AI-Agentic-Terminal-Portfolio](https://github.com/JenR8ed/AI-Agentic-Terminal-Portfolio)
-React terminal OS + Gemini backend, Drizzle, Firebase, MatrixRain UI, Workflow Suite.
+React terminal OS + Gemini backend, Drizzle, Firebase, MatrixRain UI.  
 **Live:** [ai-agentic-terminal-portfolio.vercel.app](https://ai-agentic-terminal-portfolio.vercel.app) *(repo private)*
 
 ### 🎛️ [hermes-agentic-model-picker-demo](https://github.com/JenR8ed/hermes-agentic-model-picker-demo)
-Routing tasks across LLMs with a Gradio UI — practical multi-model agent orchestration demo.
-**Tech:** Python, Gradio, multi-LLM routing
+Multi-LLM task routing with Gradio UI.  
+**Tech:** Python, Gradio
 
 ### 🛠️ [jenr8ed-deploy-kit](https://github.com/JenR8ed/jenr8ed-deploy-kit)
-Professional automation toolkit for JenR8ed AI projects: templates, scripts, Notion integration, JAIOS-compliant workflows.
-**Tech:** Shell, automation tooling
+Automation toolkit: templates, scripts, Notion integration, JAIOS workflows.  
+**Tech:** Shell
 
 ### 💼 [sqatester](https://github.com/JenR8ed/sqatester)
-Professional SDET & React portfolio (Vite + TypeScript + Tailwind).
+SDET & React portfolio (Vite + TypeScript + Tailwind).  
 **Live:** [jenr8ed.github.io/sqatester](https://jenr8ed.github.io/sqatester/)
 
 ### 🎵 [turd-eye-productions](https://github.com/JenR8ed/turd-eye-productions)
-AI Music Monetization Guides, Workflows, Decision Matrices, Cost Analysis & Profit Pipelines.
-**Tech:** Python
+AI music monetization guides, workflows, cost analysis & profit pipelines.
 
 ---
 
-## 🔗 Links & Presence
+## 🔗 Links
 
-- 🌐 **Portfolio**: [jenr8ed.github.io](https://jenr8ed.github.io)
-- 🤖 **Flagship**: [AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist)
-- 🐙 GitHub: [github.com/JenR8ed](https://github.com/JenR8ed)
+- 🤖 **AI-List-Assist**: [github.com/JenR8ed/AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist)
+- 🌐 Portfolio: [jenr8ed.github.io](https://jenr8ed.github.io)
 - 💼 LinkedIn: [linkedin.com/in/jenr8ed-ai](https://linkedin.com/in/jenr8ed-ai)
 - 📰 Newsletter: **GenAI Revenue Plays** on LinkedIn
+- 💖 Sponsors: [github.com/sponsors/JenR8ed](https://github.com/sponsors/JenR8ed)
 
 ---
 
-## 💰 Sponsorship & Collaboration
+## 🤝 Open to
 
-I'm building open, production-grade agentic tooling and welcome support.
-
-- **GitHub Sponsors**: [github.com/sponsors/JenR8ed](https://github.com/sponsors/JenR8ed)
-- Exploring Open Collective & GitHub Accelerators for sustainable AI tooling development.
-
-Sponsors get early access to new agent capabilities, private demos, and influence on roadmap (memory systems, multi-agent orchestration, e-commerce AI pipelines).
+- AI Engineering / Agentic Systems / Generative AI roles
+- SDET Architect / QA Automation Engineer
+- Full-stack TypeScript / React + AI
+- Remote · Contract · Freelance · Open-source collaboration
 
 ---
 
-## 🤝 Open to Opportunities
+⭐️ [JenR8ed](https://github.com/JenR8ed) — shipping agentic systems that work in production
 
-- ✅ AI Engineering / Agentic Systems / Generative AI roles
-- ✅ SDET Architect / QA Automation Engineer
-- ✅ Full-stack TypeScript / React + AI positions
-- ✅ Remote / Contract / Freelance
-- ✅ Open source collaboration & technical advising
-
----
-
-⭐️ From [JenR8ed](https://github.com/JenR8ed) | 🤖 Shipping agentic systems that work in production
+<sub>Note: Parts of this profile and related repos are maintained with agentic tooling. Occasional oddities may appear; the core projects above are production-oriented.</sub>
