@@ -10,7 +10,7 @@ I build AI systems and the engineering infrastructure around them: turning messy
 
 **[AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist)**
 
-A multimodal e-commerce AI workflow for product intake, image analysis, valuation, category mapping, listing synthesis, human review, and eBay publishing.
+A multimodal e-commerce AI workflow under active development for product intake, image analysis, valuation, category mapping, listing drafts, and human review. Marketplace integration is being developed; this is not a deployed product claim.
 
 **Current state:** active architectural migration toward FastAPI + Pydantic/SQLModel + PostgreSQL + React/Next.js, with ongoing performance and regression-test work.
 
@@ -28,17 +28,15 @@ That means typed contracts, evaluation harnesses, regression tests, human review
 
 | Project | What it is | Status |
 |---|---|---|
-| [AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist) | Multimodal listing workflow: image analysis, valuation, listing synthesis, eBay publishing | Applied system; migration in progress |
-| [jaios-notion-gateway](https://github.com/JenR8ed/jaios-notion-gateway) | Webhook receiver for Notion events with HMAC-SHA256 signature verification | Integration component |
-| [jenr8ed-deploy-kit](https://github.com/JenR8ed/jenr8ed-deploy-kit) | Deployment checklists, templates, and migration docs | Governance / documentation |
-| [Hermes Agentic Model Picker](https://github.com/JenR8ed/hermes-agentic-model-picker-demo) | Small Gradio prototype exploring task → model/tool routing | Prototype / research |
-| [SDET portfolio (sqatester)](https://github.com/JenR8ed/sqatester) | React/Vite portfolio and testing surface | Portfolio project |
+| [AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist) | Multimodal listing workflow and validation work | Active build; migration in progress |
+| [sqatester](https://github.com/JenR8ed/sqatester) | React/Vite source and test examples for a quality-engineering portfolio | Source available; hosted demo unavailable |
+| [jenr8ed-deploy-kit](https://github.com/JenR8ed/jenr8ed-deploy-kit) | Deployment templates, checklists, and migration notes | Tooling documentation; execution example under review |
 
-The AI-Agentic-Terminal-Portfolio repository is private. The public portfolio is at [jenr8edai.com](https://jenr8edai.com).
+The terminal portfolio source and the experimental AI List Assist lab are private. The public portfolio destination is [jenr8edai.com](https://jenr8edai.com/).
 
 ## 🧩 JAIOS
 
-An emerging AI workspace architecture for agent state, tools, project context, deployment, and human approval. Components: [jaios-notion-gateway](https://github.com/JenR8ed/jaios-notion-gateway) and [jenr8ed-deploy-kit](https://github.com/JenR8ed/jenr8ed-deploy-kit).
+An emerging AI workspace architecture for agent state, tools, project context, deployment, and human approval. Its integration components remain prototypes pending deployment and security validation.
 
 ## 🛠️ Technical focus
 
@@ -50,6 +48,6 @@ An emerging AI workspace architecture for agent state, tools, project context, d
 
 **Data / Infra:** PostgreSQL · SQLModel · Redis · Docker · GitHub Actions · Vercel · Cloudflare
 
-**Security:** HMAC signature verification · input validation · secrets hygiene · human approval steps
+**Security focus:** input validation · secrets hygiene · human approval boundaries
 
 **JenR8ed: building agentic systems with SDET discipline.**
