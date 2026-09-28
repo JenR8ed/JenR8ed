@@ -2,7 +2,9 @@
 
 **AI Engineer · SDET Architect · Agentic Systems Builder**
 
-I build AI systems and the engineering infrastructure around them — turning messy real-world inputs into structured workflows with validation, automation, and measurable behavior.
+I build AI systems and the engineering infrastructure around them: turning messy real-world inputs into structured workflows with validation, automation, and tests.
+
+**Portfolio:** [jenr8edai.com](https://jenr8edai.com)
 
 ## 🎯 Flagship build
 
@@ -10,7 +12,7 @@ I build AI systems and the engineering infrastructure around them — turning me
 
 A multimodal e-commerce AI workflow for product intake, image analysis, valuation, category mapping, listing synthesis, human review, and eBay publishing.
 
-**Current state:** active architectural migration toward **FastAPI + Pydantic/SQLModel + PostgreSQL + React/Next.js**, with ongoing performance and regression-test work.
+**Current state:** active architectural migration toward FastAPI + Pydantic/SQLModel + PostgreSQL + React/Next.js, with ongoing performance and regression-test work.
 
 ## 🧠 Engineering through-line
 
@@ -18,53 +20,36 @@ A multimodal e-commerce AI workflow for product intake, image analysis, valuatio
 
 I focus on the layer often missing from AI demos:
 
-> **How do we know the system is behaving correctly — and how do we reproduce, measure, and improve it?**
+> **How do we know the system is behaving correctly, and how do we reproduce, measure, and improve it?**
 
-That means typed contracts, evaluation harnesses, regression tests, confidence signals, security boundaries, human gates, and deployment automation.
+That means typed contracts, evaluation harnesses, regression tests, human review steps, and deployment automation.
 
-## 🚀 Current projects
+## 🚀 Selected projects
 
-### 🛒 AI-List-Assist — Applied multimodal AI
-Focus: FARM migration, AI reliability, valuation performance, structured outputs, eBay integration, and test hardening.
+| Project | What it is | Status |
+|---|---|---|
+| [AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist) | Multimodal listing workflow: image analysis, valuation, listing synthesis, eBay publishing | Applied system; migration in progress |
+| [jaios-notion-gateway](https://github.com/JenR8ed/jaios-notion-gateway) | Webhook receiver for Notion events with HMAC-SHA256 signature verification | Integration component |
+| [jenr8ed-deploy-kit](https://github.com/JenR8ed/jenr8ed-deploy-kit) | Deployment checklists, templates, and migration docs | Governance / documentation |
+| [Hermes Agentic Model Picker](https://github.com/JenR8ed/hermes-agentic-model-picker-demo) | Small Gradio prototype exploring task → model/tool routing | Prototype / research |
+| [SDET portfolio (sqatester)](https://github.com/JenR8ed/sqatester) | React/Vite portfolio and testing surface | Portfolio project |
 
-### 🧠 JAIOS — Agentic engineering workspace
-An emerging AI operating-system/workspace architecture for agent state, skills, tools, project context, deployment, and human approval.
+The AI-Agentic-Terminal-Portfolio repository is private. The public portfolio is at [jenr8edai.com](https://jenr8edai.com).
 
-Components:
-- [jaios-agentic-core](https://github.com/JenR8ed/jaios-agentic-core)
-- [jaios-notion-gateway](https://github.com/JenR8ed/jaios-notion-gateway)
-- [jenr8ed-deploy-kit](https://github.com/JenR8ed/jenr8ed-deploy-kit)
+## 🧩 JAIOS
 
-### 🖥️ AI-Agentic-Terminal-Portfolio
-Interactive terminal-style engineering portfolio demonstrating AI integration, validation, security hardening, and CI/CD.
-
-Live: https://jenr8ed.live
-
-### 🤖 Hermes Agentic Model Picker
-Small Gradio research prototype exploring explicit task → model/tool routing.
-
-### 🧪 SDET Portfolio
-React/Vite portfolio and testing surface preserving the automation/SDET side of the engineering practice.
+An emerging AI workspace architecture for agent state, tools, project context, deployment, and human approval. Components: [jaios-notion-gateway](https://github.com/JenR8ed/jaios-notion-gateway) and [jenr8ed-deploy-kit](https://github.com/JenR8ed/jenr8ed-deploy-kit).
 
 ## 🛠️ Technical focus
 
-**AI / Agentic:** Python · Gemini · multimodal AI · prompt engineering · model routing · MCP-style integrations · structured outputs · evaluation
+**AI / Agentic:** Python · Gemini · multimodal AI · prompt engineering · model routing · structured outputs · evaluation
 
-**Reliability:** PyTest · Playwright · Selenium · API testing · regression automation · validation engines · CI/CD
+**Testing:** PyTest · API testing · regression automation · CI/CD
 
-**Application:** FastAPI · Flask migration · React · Next.js · TypeScript · TailwindCSS · REST APIs
+**Application:** Flask · FastAPI (migration) · React · TypeScript · TailwindCSS · REST APIs
 
-**Data / Infra:** PostgreSQL · SQLModel · Redis · Docker · GitHub Actions · Vercel · Cloudflare · WSL2
+**Data / Infra:** PostgreSQL · SQLModel · Redis · Docker · GitHub Actions · Vercel · Cloudflare
 
-**Security:** HMAC authentication · CSP · input validation · secrets hygiene · human approval boundaries
+**Security:** HMAC signature verification · input validation · secrets hygiene · human approval steps
 
-## 📌 Project maturity
-
-- **Applied system:** AI-List-Assist
-- **Architecture / platform build:** JAIOS
-- **Integration component:** JAIOS Notion Gateway
-- **Governance / automation:** Deploy Kit
-- **Prototype / research:** Hermes
-- **Presentation / developer surface:** Terminal Portfolio
-
-**JenR8ed — building agentic systems with SDET discipline.**
+**JenR8ed: building agentic systems with SDET discipline.**
